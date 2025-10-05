@@ -214,10 +214,7 @@ This is a NASA Space Apps Challenge 2025 project. Contributions and feedback are
 
 ---
 
-**Built with ❤️ for NASA Space Apps Challenge 2025**
+**Built with lot's of tension and dedication just for NASA Space Apps Challenge 2025!**
 *Making climate data actionable, one ocean at a time* 🌊
 
 ---
-
-
-Do you want me to do that?
