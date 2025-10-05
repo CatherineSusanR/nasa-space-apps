@@ -1,0 +1,2306 @@
+[
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2002,
+    "datetime_bin": 3,
+    "chl": 0.195582,
+    "chl_sd": 0.213896,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2002,
+    "datetime_bin": 4,
+    "chl": 0.178498052631,
+    "chl_sd": 0.209947,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2003,
+    "datetime_bin": 1,
+    "chl": 0.269900863636,
+    "chl_sd": 0.391832,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2003,
+    "datetime_bin": 2,
+    "chl": 0.174412916666,
+    "chl_sd": 0.227518,
+    "chl_bincount": 24
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2003,
+    "datetime_bin": 3,
+    "chl": 0.19254475,
+    "chl_sd": 0.267003,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2003,
+    "datetime_bin": 4,
+    "chl": 0.210014266666,
+    "chl_sd": 0.296856,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2004,
+    "datetime_bin": 1,
+    "chl": 0.304208428571,
+    "chl_sd": 0.447813,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2004,
+    "datetime_bin": 2,
+    "chl": 0.173635,
+    "chl_sd": 0.242921,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2004,
+    "datetime_bin": 3,
+    "chl": 0.190278,
+    "chl_sd": 0.235277,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2004,
+    "datetime_bin": 4,
+    "chl": 0.196395153846,
+    "chl_sd": 0.263714,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2005,
+    "datetime_bin": 1,
+    "chl": 0.31230903125,
+    "chl_sd": 0.655145,
+    "chl_bincount": 32
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2005,
+    "datetime_bin": 2,
+    "chl": 0.164204421052,
+    "chl_sd": 0.260718,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2005,
+    "datetime_bin": 3,
+    "chl": 0.18776976923,
+    "chl_sd": 0.239372,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2005,
+    "datetime_bin": 4,
+    "chl": 0.1515463,
+    "chl_sd": 0.189875,
+    "chl_bincount": 10
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2006,
+    "datetime_bin": 1,
+    "chl": 0.344266944444,
+    "chl_sd": 0.671721,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2006,
+    "datetime_bin": 2,
+    "chl": 0.166531368421,
+    "chl_sd": 0.241817,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2006,
+    "datetime_bin": 3,
+    "chl": 0.181055466666,
+    "chl_sd": 0.258363,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2006,
+    "datetime_bin": 4,
+    "chl": 0.149746526315,
+    "chl_sd": 0.199975,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2007,
+    "datetime_bin": 1,
+    "chl": 0.25264296,
+    "chl_sd": 0.474054,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2007,
+    "datetime_bin": 2,
+    "chl": 0.149363894736,
+    "chl_sd": 0.217037,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2007,
+    "datetime_bin": 3,
+    "chl": 0.173572,
+    "chl_sd": 0.216268,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2007,
+    "datetime_bin": 4,
+    "chl": 0.204221777777,
+    "chl_sd": 0.384693,
+    "chl_bincount": 9
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2008,
+    "datetime_bin": 1,
+    "chl": 0.259861066666,
+    "chl_sd": 0.300085,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2008,
+    "datetime_bin": 2,
+    "chl": 0.172334625,
+    "chl_sd": 0.221758,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2008,
+    "datetime_bin": 3,
+    "chl": 0.160930307692,
+    "chl_sd": 0.213101,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2008,
+    "datetime_bin": 4,
+    "chl": 0.1575305,
+    "chl_sd": 0.336647,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2009,
+    "datetime_bin": 1,
+    "chl": 0.350797565217,
+    "chl_sd": 0.667793,
+    "chl_bincount": 23
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2009,
+    "datetime_bin": 2,
+    "chl": 0.150046,
+    "chl_sd": 0.184265,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2009,
+    "datetime_bin": 3,
+    "chl": 0.174214666666,
+    "chl_sd": 0.222383,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2009,
+    "datetime_bin": 4,
+    "chl": 0.165660444444,
+    "chl_sd": 0.19264,
+    "chl_bincount": 9
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2010,
+    "datetime_bin": 1,
+    "chl": 0.209658055555,
+    "chl_sd": 0.29365,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2010,
+    "datetime_bin": 2,
+    "chl": 0.143523964285,
+    "chl_sd": 0.174066,
+    "chl_bincount": 28
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2010,
+    "datetime_bin": 3,
+    "chl": 0.178744230769,
+    "chl_sd": 0.253968,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2010,
+    "datetime_bin": 4,
+    "chl": 0.2307743,
+    "chl_sd": 0.281533,
+    "chl_bincount": 10
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2011,
+    "datetime_bin": 1,
+    "chl": 0.285270888888,
+    "chl_sd": 0.327986,
+    "chl_bincount": 9
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2011,
+    "datetime_bin": 2,
+    "chl": 0.206590615384,
+    "chl_sd": 0.343475,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2011,
+    "datetime_bin": 3,
+    "chl": 0.18854576923,
+    "chl_sd": 0.240909,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2011,
+    "datetime_bin": 4,
+    "chl": 0.1689005,
+    "chl_sd": 0.207013,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2012,
+    "datetime_bin": 1,
+    "chl": 0.255677789473,
+    "chl_sd": 0.690407,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2012,
+    "datetime_bin": 2,
+    "chl": 0.153400333333,
+    "chl_sd": 0.174553,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2012,
+    "datetime_bin": 3,
+    "chl": 0.17810068421,
+    "chl_sd": 0.206363,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2012,
+    "datetime_bin": 4,
+    "chl": 0.1809886,
+    "chl_sd": 0.230461,
+    "chl_bincount": 10
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2013,
+    "datetime_bin": 1,
+    "chl": 0.2356848,
+    "chl_sd": 0.357008,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2013,
+    "datetime_bin": 2,
+    "chl": 0.165197333333,
+    "chl_sd": 0.233627,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2013,
+    "datetime_bin": 3,
+    "chl": 0.189244285714,
+    "chl_sd": 0.249461,
+    "chl_bincount": 7
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2013,
+    "datetime_bin": 4,
+    "chl": 0.1816697,
+    "chl_sd": 0.281604,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2014,
+    "datetime_bin": 1,
+    "chl": 0.29974625,
+    "chl_sd": 0.587925,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2014,
+    "datetime_bin": 2,
+    "chl": 0.14388816,
+    "chl_sd": 0.224715,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2014,
+    "datetime_bin": 3,
+    "chl": 0.192899153846,
+    "chl_sd": 0.240391,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2014,
+    "datetime_bin": 4,
+    "chl": 0.1637206,
+    "chl_sd": 0.20331,
+    "chl_bincount": 10
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2015,
+    "datetime_bin": 1,
+    "chl": 0.3111455,
+    "chl_sd": 0.554414,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2015,
+    "datetime_bin": 2,
+    "chl": 0.150853,
+    "chl_sd": 0.211032,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2015,
+    "datetime_bin": 3,
+    "chl": 0.184082571428,
+    "chl_sd": 0.251979,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2015,
+    "datetime_bin": 4,
+    "chl": 0.1700564375,
+    "chl_sd": 0.201856,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2016,
+    "datetime_bin": 1,
+    "chl": 0.23710628,
+    "chl_sd": 0.322016,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2016,
+    "datetime_bin": 2,
+    "chl": 0.169914821428,
+    "chl_sd": 0.341209,
+    "chl_bincount": 28
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2016,
+    "datetime_bin": 3,
+    "chl": 0.174015071428,
+    "chl_sd": 0.218428,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2016,
+    "datetime_bin": 4,
+    "chl": 0.1781118,
+    "chl_sd": 0.381817,
+    "chl_bincount": 10
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2017,
+    "datetime_bin": 1,
+    "chl": 0.321300692307,
+    "chl_sd": 0.447157,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2017,
+    "datetime_bin": 2,
+    "chl": 0.195074,
+    "chl_sd": 0.308219,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2017,
+    "datetime_bin": 3,
+    "chl": 0.1648489,
+    "chl_sd": 0.203935,
+    "chl_bincount": 10
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2017,
+    "datetime_bin": 4,
+    "chl": 0.1486288,
+    "chl_sd": 0.182876,
+    "chl_bincount": 5
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2018,
+    "datetime_bin": 1,
+    "chl": 0.272419238095,
+    "chl_sd": 0.48384,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2018,
+    "datetime_bin": 2,
+    "chl": 0.1434315625,
+    "chl_sd": 0.213628,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2018,
+    "datetime_bin": 3,
+    "chl": 0.183578444444,
+    "chl_sd": 0.207559,
+    "chl_bincount": 9
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2018,
+    "datetime_bin": 4,
+    "chl": 0.176180125,
+    "chl_sd": 0.214946,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2019,
+    "datetime_bin": 1,
+    "chl": 0.23833135,
+    "chl_sd": 0.576752,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2019,
+    "datetime_bin": 2,
+    "chl": 0.159734,
+    "chl_sd": 0.1855,
+    "chl_bincount": 24
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2019,
+    "datetime_bin": 3,
+    "chl": 0.1778775,
+    "chl_sd": 0.222483,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2019,
+    "datetime_bin": 4,
+    "chl": 0.175218066666,
+    "chl_sd": 0.221225,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2020,
+    "datetime_bin": 1,
+    "chl": 0.294346666666,
+    "chl_sd": 0.465703,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2020,
+    "datetime_bin": 2,
+    "chl": 0.15272690909,
+    "chl_sd": 0.289236,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2020,
+    "datetime_bin": 3,
+    "chl": 0.1698094,
+    "chl_sd": 0.204012,
+    "chl_bincount": 5
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2020,
+    "datetime_bin": 4,
+    "chl": 0.167489666666,
+    "chl_sd": 0.201928,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2021,
+    "datetime_bin": 1,
+    "chl": 0.301448058823,
+    "chl_sd": 0.687755,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2021,
+    "datetime_bin": 2,
+    "chl": 0.160096764705,
+    "chl_sd": 0.201711,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2021,
+    "datetime_bin": 3,
+    "chl": 0.159017538461,
+    "chl_sd": 0.229115,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2021,
+    "datetime_bin": 4,
+    "chl": 0.184974,
+    "chl_sd": 0.248036,
+    "chl_bincount": 9
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2022,
+    "datetime_bin": 1,
+    "chl": 0.337663296296,
+    "chl_sd": 0.879923,
+    "chl_bincount": 27
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2022,
+    "datetime_bin": 2,
+    "chl": 0.228755153846,
+    "chl_sd": 0.643096,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2022,
+    "datetime_bin": 3,
+    "chl": 0.172990205882,
+    "chl_sd": 0.238535,
+    "chl_bincount": 34
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2022,
+    "datetime_bin": 4,
+    "chl": 0.19395425,
+    "chl_sd": 0.275669,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2023,
+    "datetime_bin": 1,
+    "chl": 0.3574687,
+    "chl_sd": 0.483353,
+    "chl_bincount": 10
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2023,
+    "datetime_bin": 2,
+    "chl": 0.189577071428,
+    "chl_sd": 0.618713,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2023,
+    "datetime_bin": 3,
+    "chl": 0.161280074074,
+    "chl_sd": 0.21049,
+    "chl_bincount": 27
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2023,
+    "datetime_bin": 4,
+    "chl": 0.165958,
+    "chl_sd": 0.232612,
+    "chl_bincount": 8
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2024,
+    "datetime_bin": 1,
+    "chl": 0.256953363636,
+    "chl_sd": 0.408729,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2024,
+    "datetime_bin": 2,
+    "chl": 0.139158894736,
+    "chl_sd": 0.192432,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Aqua",
+    "year": 2024,
+    "datetime_bin": 3,
+    "chl": 0.174274857142,
+    "chl_sd": 0.205942,
+    "chl_bincount": 7
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2000,
+    "datetime_bin": 2,
+    "chl": 0.154883818181,
+    "chl_sd": 0.212737,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2000,
+    "datetime_bin": 3,
+    "chl": 0.22424175,
+    "chl_sd": 0.274606,
+    "chl_bincount": 8
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2000,
+    "datetime_bin": 4,
+    "chl": 0.1898776,
+    "chl_sd": 0.265397,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2001,
+    "datetime_bin": 1,
+    "chl": 0.24103188,
+    "chl_sd": 0.336179,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2001,
+    "datetime_bin": 2,
+    "chl": 0.168174571428,
+    "chl_sd": 0.236119,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2001,
+    "datetime_bin": 3,
+    "chl": 0.180671333333,
+    "chl_sd": 0.241474,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2001,
+    "datetime_bin": 4,
+    "chl": 0.190382461538,
+    "chl_sd": 0.349956,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2002,
+    "datetime_bin": 1,
+    "chl": 0.326084235294,
+    "chl_sd": 0.606434,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2002,
+    "datetime_bin": 2,
+    "chl": 0.184080833333,
+    "chl_sd": 0.260695,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2002,
+    "datetime_bin": 3,
+    "chl": 0.237849333333,
+    "chl_sd": 0.354631,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2002,
+    "datetime_bin": 4,
+    "chl": 0.174986666666,
+    "chl_sd": 0.225445,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2003,
+    "datetime_bin": 1,
+    "chl": 0.272019538461,
+    "chl_sd": 0.587848,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2003,
+    "datetime_bin": 2,
+    "chl": 0.175734636363,
+    "chl_sd": 0.239367,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2003,
+    "datetime_bin": 3,
+    "chl": 0.186347714285,
+    "chl_sd": 0.220191,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2003,
+    "datetime_bin": 4,
+    "chl": 0.227177833333,
+    "chl_sd": 0.263456,
+    "chl_bincount": 6
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2004,
+    "datetime_bin": 1,
+    "chl": 0.287246,
+    "chl_sd": 0.560471,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2004,
+    "datetime_bin": 2,
+    "chl": 0.170159263157,
+    "chl_sd": 0.271202,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2004,
+    "datetime_bin": 3,
+    "chl": 0.205123357142,
+    "chl_sd": 0.270561,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2004,
+    "datetime_bin": 4,
+    "chl": 0.1719198,
+    "chl_sd": 0.204222,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2005,
+    "datetime_bin": 1,
+    "chl": 0.281371,
+    "chl_sd": 0.421415,
+    "chl_bincount": 28
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2005,
+    "datetime_bin": 2,
+    "chl": 0.174382428571,
+    "chl_sd": 0.424458,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2005,
+    "datetime_bin": 3,
+    "chl": 0.199014090909,
+    "chl_sd": 0.253478,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2005,
+    "datetime_bin": 4,
+    "chl": 0.160046466666,
+    "chl_sd": 0.194543,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2006,
+    "datetime_bin": 1,
+    "chl": 0.304520833333,
+    "chl_sd": 0.694852,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2006,
+    "datetime_bin": 2,
+    "chl": 0.16924047619,
+    "chl_sd": 0.260634,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2006,
+    "datetime_bin": 3,
+    "chl": 0.185346857142,
+    "chl_sd": 0.215149,
+    "chl_bincount": 7
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2006,
+    "datetime_bin": 4,
+    "chl": 0.158098294117,
+    "chl_sd": 0.186055,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2007,
+    "datetime_bin": 1,
+    "chl": 0.252093352941,
+    "chl_sd": 0.449501,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2007,
+    "datetime_bin": 2,
+    "chl": 0.1456365625,
+    "chl_sd": 0.191183,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2007,
+    "datetime_bin": 3,
+    "chl": 0.174484944444,
+    "chl_sd": 0.216723,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2007,
+    "datetime_bin": 4,
+    "chl": 0.205345857142,
+    "chl_sd": 0.351495,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2008,
+    "datetime_bin": 1,
+    "chl": 0.259727470588,
+    "chl_sd": 0.323703,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2008,
+    "datetime_bin": 2,
+    "chl": 0.1962511875,
+    "chl_sd": 0.361341,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2008,
+    "datetime_bin": 3,
+    "chl": 0.162455571428,
+    "chl_sd": 0.198019,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2008,
+    "datetime_bin": 4,
+    "chl": 0.14670416,
+    "chl_sd": 0.220259,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2009,
+    "datetime_bin": 1,
+    "chl": 0.319068590909,
+    "chl_sd": 0.543275,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2009,
+    "datetime_bin": 2,
+    "chl": 0.167562555555,
+    "chl_sd": 0.242723,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2009,
+    "datetime_bin": 3,
+    "chl": 0.2032359,
+    "chl_sd": 0.331512,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2009,
+    "datetime_bin": 4,
+    "chl": 0.161411777777,
+    "chl_sd": 0.215102,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2010,
+    "datetime_bin": 1,
+    "chl": 0.22114036,
+    "chl_sd": 0.328483,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2010,
+    "datetime_bin": 2,
+    "chl": 0.148632448275,
+    "chl_sd": 0.180926,
+    "chl_bincount": 29
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2010,
+    "datetime_bin": 3,
+    "chl": 0.191664785714,
+    "chl_sd": 0.273278,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2010,
+    "datetime_bin": 4,
+    "chl": 0.191756714285,
+    "chl_sd": 0.290164,
+    "chl_bincount": 7
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2011,
+    "datetime_bin": 1,
+    "chl": 0.277989117647,
+    "chl_sd": 0.412,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2011,
+    "datetime_bin": 2,
+    "chl": 0.206571363636,
+    "chl_sd": 0.48712,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2011,
+    "datetime_bin": 3,
+    "chl": 0.1996935,
+    "chl_sd": 0.237548,
+    "chl_bincount": 8
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2011,
+    "datetime_bin": 4,
+    "chl": 0.1718975,
+    "chl_sd": 0.246069,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2012,
+    "datetime_bin": 1,
+    "chl": 0.261151375,
+    "chl_sd": 0.50593,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2012,
+    "datetime_bin": 2,
+    "chl": 0.148306857142,
+    "chl_sd": 0.181914,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2012,
+    "datetime_bin": 3,
+    "chl": 0.191914933333,
+    "chl_sd": 0.25299,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2012,
+    "datetime_bin": 4,
+    "chl": 0.168040076923,
+    "chl_sd": 0.222306,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2013,
+    "datetime_bin": 1,
+    "chl": 0.211391230769,
+    "chl_sd": 0.314655,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2013,
+    "datetime_bin": 2,
+    "chl": 0.1563590625,
+    "chl_sd": 0.222444,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2013,
+    "datetime_bin": 3,
+    "chl": 0.189931,
+    "chl_sd": 0.248105,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2013,
+    "datetime_bin": 4,
+    "chl": 0.177292375,
+    "chl_sd": 0.24083,
+    "chl_bincount": 24
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2014,
+    "datetime_bin": 1,
+    "chl": 0.331913809523,
+    "chl_sd": 0.531054,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2014,
+    "datetime_bin": 2,
+    "chl": 0.164253045454,
+    "chl_sd": 0.439812,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2014,
+    "datetime_bin": 3,
+    "chl": 0.186475,
+    "chl_sd": 0.217234,
+    "chl_bincount": 7
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2014,
+    "datetime_bin": 4,
+    "chl": 0.170785615384,
+    "chl_sd": 0.220657,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2015,
+    "datetime_bin": 1,
+    "chl": 0.2491025,
+    "chl_sd": 0.471013,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2015,
+    "datetime_bin": 2,
+    "chl": 0.154653764705,
+    "chl_sd": 0.218682,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2015,
+    "datetime_bin": 3,
+    "chl": 0.193666705882,
+    "chl_sd": 0.278104,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2015,
+    "datetime_bin": 4,
+    "chl": 0.170955230769,
+    "chl_sd": 0.201622,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2016,
+    "datetime_bin": 1,
+    "chl": 0.224061166666,
+    "chl_sd": 0.325976,
+    "chl_bincount": 24
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2016,
+    "datetime_bin": 2,
+    "chl": 0.177989391304,
+    "chl_sd": 0.43505,
+    "chl_bincount": 23
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2016,
+    "datetime_bin": 3,
+    "chl": 0.179759642857,
+    "chl_sd": 0.251123,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2016,
+    "datetime_bin": 4,
+    "chl": 0.1626891875,
+    "chl_sd": 0.212227,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2017,
+    "datetime_bin": 1,
+    "chl": 0.302862727272,
+    "chl_sd": 0.359878,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2017,
+    "datetime_bin": 2,
+    "chl": 0.180238916666,
+    "chl_sd": 0.358548,
+    "chl_bincount": 24
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2017,
+    "datetime_bin": 3,
+    "chl": 0.1805016875,
+    "chl_sd": 0.221904,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2017,
+    "datetime_bin": 4,
+    "chl": 0.151521571428,
+    "chl_sd": 0.196053,
+    "chl_bincount": 7
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2018,
+    "datetime_bin": 1,
+    "chl": 0.269078125,
+    "chl_sd": 0.408615,
+    "chl_bincount": 24
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2018,
+    "datetime_bin": 2,
+    "chl": 0.153132,
+    "chl_sd": 0.205282,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2018,
+    "datetime_bin": 3,
+    "chl": 0.184275555555,
+    "chl_sd": 0.220523,
+    "chl_bincount": 9
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2018,
+    "datetime_bin": 4,
+    "chl": 0.165790647058,
+    "chl_sd": 0.210292,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2019,
+    "datetime_bin": 1,
+    "chl": 0.222411615384,
+    "chl_sd": 0.376045,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2019,
+    "datetime_bin": 2,
+    "chl": 0.157692714285,
+    "chl_sd": 0.1882,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2019,
+    "datetime_bin": 3,
+    "chl": 0.182419076923,
+    "chl_sd": 0.236331,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2019,
+    "datetime_bin": 4,
+    "chl": 0.16848676923,
+    "chl_sd": 0.225529,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2020,
+    "datetime_bin": 1,
+    "chl": 0.313866,
+    "chl_sd": 0.621735,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2020,
+    "datetime_bin": 2,
+    "chl": 0.160106392857,
+    "chl_sd": 0.294236,
+    "chl_bincount": 28
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2020,
+    "datetime_bin": 3,
+    "chl": 0.1671123125,
+    "chl_sd": 0.229199,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2020,
+    "datetime_bin": 4,
+    "chl": 0.164714642857,
+    "chl_sd": 0.205691,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2021,
+    "datetime_bin": 1,
+    "chl": 0.2825918,
+    "chl_sd": 0.654886,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2021,
+    "datetime_bin": 2,
+    "chl": 0.170548736842,
+    "chl_sd": 0.199332,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2021,
+    "datetime_bin": 3,
+    "chl": 0.184487736842,
+    "chl_sd": 0.255236,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2021,
+    "datetime_bin": 4,
+    "chl": 0.173186615384,
+    "chl_sd": 0.20263,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2022,
+    "datetime_bin": 1,
+    "chl": 0.346903304347,
+    "chl_sd": 0.788398,
+    "chl_bincount": 23
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2022,
+    "datetime_bin": 2,
+    "chl": 0.197734454545,
+    "chl_sd": 0.327714,
+    "chl_bincount": 33
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2022,
+    "datetime_bin": 3,
+    "chl": 0.162493863636,
+    "chl_sd": 0.208287,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2022,
+    "datetime_bin": 4,
+    "chl": 0.161406714285,
+    "chl_sd": 0.217606,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2023,
+    "datetime_bin": 1,
+    "chl": 0.30770525,
+    "chl_sd": 0.992951,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2023,
+    "datetime_bin": 2,
+    "chl": 0.171464833333,
+    "chl_sd": 0.487957,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2023,
+    "datetime_bin": 3,
+    "chl": 0.164802142857,
+    "chl_sd": 0.254756,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2023,
+    "datetime_bin": 4,
+    "chl": 0.18735575,
+    "chl_sd": 0.312356,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2024,
+    "datetime_bin": 1,
+    "chl": 0.287059090909,
+    "chl_sd": 0.517694,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2024,
+    "datetime_bin": 2,
+    "chl": 0.143674,
+    "chl_sd": 0.200557,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "MODIS-Terra",
+    "year": 2024,
+    "datetime_bin": 3,
+    "chl": 0.162942666666,
+    "chl_sd": 0.183768,
+    "chl_bincount": 3
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2012,
+    "datetime_bin": 1,
+    "chl": 0.271198947368,
+    "chl_sd": 0.372325,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2012,
+    "datetime_bin": 2,
+    "chl": 0.184368315789,
+    "chl_sd": 0.301723,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2012,
+    "datetime_bin": 3,
+    "chl": 0.209908923076,
+    "chl_sd": 0.265255,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2012,
+    "datetime_bin": 4,
+    "chl": 0.201224933333,
+    "chl_sd": 0.24673,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2013,
+    "datetime_bin": 1,
+    "chl": 0.224826111111,
+    "chl_sd": 0.441217,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2013,
+    "datetime_bin": 2,
+    "chl": 0.16927136,
+    "chl_sd": 0.236015,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2013,
+    "datetime_bin": 3,
+    "chl": 0.190979333333,
+    "chl_sd": 0.272596,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2013,
+    "datetime_bin": 4,
+    "chl": 0.209584375,
+    "chl_sd": 0.488052,
+    "chl_bincount": 24
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2014,
+    "datetime_bin": 1,
+    "chl": 0.306403153846,
+    "chl_sd": 0.564978,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2014,
+    "datetime_bin": 2,
+    "chl": 0.162718085714,
+    "chl_sd": 0.28054,
+    "chl_bincount": 35
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2014,
+    "datetime_bin": 3,
+    "chl": 0.201417235294,
+    "chl_sd": 0.263798,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2014,
+    "datetime_bin": 4,
+    "chl": 0.182462318181,
+    "chl_sd": 0.326605,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2015,
+    "datetime_bin": 1,
+    "chl": 0.249380346153,
+    "chl_sd": 0.464566,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2015,
+    "datetime_bin": 2,
+    "chl": 0.16587540909,
+    "chl_sd": 0.26935,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2015,
+    "datetime_bin": 3,
+    "chl": 0.189502523809,
+    "chl_sd": 0.2503,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2015,
+    "datetime_bin": 4,
+    "chl": 0.171768588235,
+    "chl_sd": 0.231977,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2016,
+    "datetime_bin": 1,
+    "chl": 0.230215181818,
+    "chl_sd": 0.354122,
+    "chl_bincount": 33
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2016,
+    "datetime_bin": 2,
+    "chl": 0.18498637931,
+    "chl_sd": 0.372981,
+    "chl_bincount": 29
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2016,
+    "datetime_bin": 3,
+    "chl": 0.1770504,
+    "chl_sd": 0.222541,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2016,
+    "datetime_bin": 4,
+    "chl": 0.171475631578,
+    "chl_sd": 0.320197,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2017,
+    "datetime_bin": 1,
+    "chl": 0.301594,
+    "chl_sd": 0.419409,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2017,
+    "datetime_bin": 2,
+    "chl": 0.18038508,
+    "chl_sd": 0.407447,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2017,
+    "datetime_bin": 3,
+    "chl": 0.172742611111,
+    "chl_sd": 0.219348,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2017,
+    "datetime_bin": 4,
+    "chl": 0.1529955,
+    "chl_sd": 0.188585,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2018,
+    "datetime_bin": 1,
+    "chl": 0.270305148148,
+    "chl_sd": 0.384138,
+    "chl_bincount": 27
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2018,
+    "datetime_bin": 2,
+    "chl": 0.148551,
+    "chl_sd": 0.201114,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2018,
+    "datetime_bin": 3,
+    "chl": 0.19148617647,
+    "chl_sd": 0.248977,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2018,
+    "datetime_bin": 4,
+    "chl": 0.177015473684,
+    "chl_sd": 0.264803,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2019,
+    "datetime_bin": 1,
+    "chl": 0.236032925925,
+    "chl_sd": 0.654557,
+    "chl_bincount": 27
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2019,
+    "datetime_bin": 2,
+    "chl": 0.161053033333,
+    "chl_sd": 0.20783,
+    "chl_bincount": 30
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2019,
+    "datetime_bin": 3,
+    "chl": 0.189230227272,
+    "chl_sd": 0.232847,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2019,
+    "datetime_bin": 4,
+    "chl": 0.17937173913,
+    "chl_sd": 0.257094,
+    "chl_bincount": 23
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2020,
+    "datetime_bin": 1,
+    "chl": 0.301784821428,
+    "chl_sd": 0.552691,
+    "chl_bincount": 28
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2020,
+    "datetime_bin": 2,
+    "chl": 0.16520671875,
+    "chl_sd": 0.342575,
+    "chl_bincount": 32
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2020,
+    "datetime_bin": 3,
+    "chl": 0.175152214285,
+    "chl_sd": 0.23325,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2020,
+    "datetime_bin": 4,
+    "chl": 0.1789515,
+    "chl_sd": 0.239561,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2021,
+    "datetime_bin": 1,
+    "chl": 0.336818038461,
+    "chl_sd": 0.767855,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2021,
+    "datetime_bin": 2,
+    "chl": 0.161096956521,
+    "chl_sd": 0.217907,
+    "chl_bincount": 23
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2021,
+    "datetime_bin": 3,
+    "chl": 0.1877551,
+    "chl_sd": 0.252249,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2021,
+    "datetime_bin": 4,
+    "chl": 0.17914475,
+    "chl_sd": 0.225131,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2022,
+    "datetime_bin": 1,
+    "chl": 0.315521394736,
+    "chl_sd": 1.032549,
+    "chl_bincount": 38
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2022,
+    "datetime_bin": 2,
+    "chl": 0.194511304347,
+    "chl_sd": 0.455242,
+    "chl_bincount": 23
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2022,
+    "datetime_bin": 3,
+    "chl": 0.177382705882,
+    "chl_sd": 0.242053,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2022,
+    "datetime_bin": 4,
+    "chl": 0.188710384615,
+    "chl_sd": 0.241162,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2023,
+    "datetime_bin": 1,
+    "chl": 0.339673357142,
+    "chl_sd": 0.536076,
+    "chl_bincount": 28
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2023,
+    "datetime_bin": 2,
+    "chl": 0.245606882352,
+    "chl_sd": 0.556772,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "VIIRS-SNPP",
+    "year": 2023,
+    "datetime_bin": 3,
+    "chl": 0.18920773913,
+    "chl_sd": 0.237198,
+    "chl_bincount": 23
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2018,
+    "datetime_bin": 3,
+    "chl": 0.187681,
+    "chl_sd": 0.251044,
+    "chl_bincount": 4
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2018,
+    "datetime_bin": 4,
+    "chl": 0.174587611111,
+    "chl_sd": 0.224359,
+    "chl_bincount": 18
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2019,
+    "datetime_bin": 1,
+    "chl": 0.23541796875,
+    "chl_sd": 0.554298,
+    "chl_bincount": 32
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2019,
+    "datetime_bin": 2,
+    "chl": 0.160878470588,
+    "chl_sd": 0.19484,
+    "chl_bincount": 34
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2019,
+    "datetime_bin": 3,
+    "chl": 0.18555275,
+    "chl_sd": 0.222483,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2019,
+    "datetime_bin": 4,
+    "chl": 0.171318416666,
+    "chl_sd": 0.226673,
+    "chl_bincount": 24
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2020,
+    "datetime_bin": 1,
+    "chl": 0.36380421875,
+    "chl_sd": 2.190049,
+    "chl_bincount": 32
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2020,
+    "datetime_bin": 2,
+    "chl": 0.161433931034,
+    "chl_sd": 0.284566,
+    "chl_bincount": 29
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2020,
+    "datetime_bin": 3,
+    "chl": 0.160806615384,
+    "chl_sd": 0.226802,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2020,
+    "datetime_bin": 4,
+    "chl": 0.190327,
+    "chl_sd": 0.361724,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2021,
+    "datetime_bin": 1,
+    "chl": 0.3166056875,
+    "chl_sd": 0.648414,
+    "chl_bincount": 32
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2021,
+    "datetime_bin": 2,
+    "chl": 0.161870333333,
+    "chl_sd": 0.221384,
+    "chl_bincount": 27
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2021,
+    "datetime_bin": 3,
+    "chl": 0.177708363636,
+    "chl_sd": 0.240378,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2021,
+    "datetime_bin": 4,
+    "chl": 0.167487842105,
+    "chl_sd": 0.212088,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2022,
+    "datetime_bin": 1,
+    "chl": 0.318399473684,
+    "chl_sd": 0.771434,
+    "chl_bincount": 38
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2022,
+    "datetime_bin": 2,
+    "chl": 0.21698873913,
+    "chl_sd": 0.567828,
+    "chl_bincount": 23
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2022,
+    "datetime_bin": 3,
+    "chl": 0.180134764705,
+    "chl_sd": 0.271393,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2022,
+    "datetime_bin": 4,
+    "chl": 0.183659272727,
+    "chl_sd": 0.236356,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2023,
+    "datetime_bin": 1,
+    "chl": 0.376500954545,
+    "chl_sd": 0.639982,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2023,
+    "datetime_bin": 2,
+    "chl": 0.204949380952,
+    "chl_sd": 0.297582,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2023,
+    "datetime_bin": 3,
+    "chl": 0.192666,
+    "chl_sd": 0.253446,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2023,
+    "datetime_bin": 4,
+    "chl": 0.17694645,
+    "chl_sd": 0.221394,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2024,
+    "datetime_bin": 1,
+    "chl": 0.295898851851,
+    "chl_sd": 0.412508,
+    "chl_bincount": 27
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2024,
+    "datetime_bin": 2,
+    "chl": 0.161139538461,
+    "chl_sd": 0.219912,
+    "chl_bincount": 26
+  },
+  {
+    "data_source": "VIIRS-NOAA20",
+    "year": 2024,
+    "datetime_bin": 3,
+    "chl": 0.183032454545,
+    "chl_sd": 0.215517,
+    "chl_bincount": 11
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 1997,
+    "datetime_bin": 4,
+    "chl": 0.1543984,
+    "chl_sd": 0.363022,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 1998,
+    "datetime_bin": 1,
+    "chl": 0.2139691,
+    "chl_sd": 0.259819,
+    "chl_bincount": 10
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 1998,
+    "datetime_bin": 2,
+    "chl": 0.144543166666,
+    "chl_sd": 0.173796,
+    "chl_bincount": 12
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 1998,
+    "datetime_bin": 3,
+    "chl": 0.158279,
+    "chl_sd": 0.207046,
+    "chl_bincount": 8
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 1998,
+    "datetime_bin": 4,
+    "chl": 0.180193833333,
+    "chl_sd": 0.227886,
+    "chl_bincount": 6
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 1999,
+    "datetime_bin": 1,
+    "chl": 0.244484928571,
+    "chl_sd": 0.324016,
+    "chl_bincount": 14
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 1999,
+    "datetime_bin": 2,
+    "chl": 0.161182523809,
+    "chl_sd": 1.515588,
+    "chl_bincount": 21
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 1999,
+    "datetime_bin": 3,
+    "chl": 0.1886031,
+    "chl_sd": 0.254101,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 1999,
+    "datetime_bin": 4,
+    "chl": 0.153374461538,
+    "chl_sd": 0.199871,
+    "chl_bincount": 13
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2000,
+    "datetime_bin": 1,
+    "chl": 0.28757708,
+    "chl_sd": 0.462167,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2000,
+    "datetime_bin": 2,
+    "chl": 0.166501928571,
+    "chl_sd": 0.228412,
+    "chl_bincount": 28
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2000,
+    "datetime_bin": 3,
+    "chl": 0.203592,
+    "chl_sd": 0.263923,
+    "chl_bincount": 20
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2000,
+    "datetime_bin": 4,
+    "chl": 0.172116,
+    "chl_sd": 0.204971,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2001,
+    "datetime_bin": 1,
+    "chl": 0.250149689655,
+    "chl_sd": 0.321231,
+    "chl_bincount": 29
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2001,
+    "datetime_bin": 2,
+    "chl": 0.165934578947,
+    "chl_sd": 0.222997,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2001,
+    "datetime_bin": 3,
+    "chl": 0.175055052631,
+    "chl_sd": 0.263171,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2001,
+    "datetime_bin": 4,
+    "chl": 0.182788,
+    "chl_sd": 0.55281,
+    "chl_bincount": 7
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2002,
+    "datetime_bin": 1,
+    "chl": 0.320306,
+    "chl_sd": 1.92232,
+    "chl_bincount": 22
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2002,
+    "datetime_bin": 2,
+    "chl": 0.187720260869,
+    "chl_sd": 0.560463,
+    "chl_bincount": 23
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2002,
+    "datetime_bin": 3,
+    "chl": 0.2194283125,
+    "chl_sd": 0.249079,
+    "chl_bincount": 16
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2002,
+    "datetime_bin": 4,
+    "chl": 0.177146705882,
+    "chl_sd": 0.696826,
+    "chl_bincount": 17
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2003,
+    "datetime_bin": 1,
+    "chl": 0.29295596,
+    "chl_sd": 0.517518,
+    "chl_bincount": 25
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2003,
+    "datetime_bin": 2,
+    "chl": 0.177433947368,
+    "chl_sd": 0.250845,
+    "chl_bincount": 19
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2003,
+    "datetime_bin": 3,
+    "chl": 0.187988866666,
+    "chl_sd": 0.220049,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2003,
+    "datetime_bin": 4,
+    "chl": 0.202132666666,
+    "chl_sd": 0.269312,
+    "chl_bincount": 15
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2004,
+    "datetime_bin": 1,
+    "chl": 0.308931875,
+    "chl_sd": 0.45994,
+    "chl_bincount": 8
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2004,
+    "datetime_bin": 2,
+    "chl": 0.181262142857,
+    "chl_sd": 0.237856,
+    "chl_bincount": 7
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2004,
+    "datetime_bin": 3,
+    "chl": 0.196952,
+    "chl_sd": 0.216336,
+    "chl_bincount": 3
+  },
+  {
+    "data_source": "SeaWiFS",
+    "year": 2004,
+    "datetime_bin": 4,
+    "chl": 0.1978385,
+    "chl_sd": 0.210945,
+    "chl_bincount": 2
+  }
+]
