@@ -1,70 +1,223 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🌊 NASA Ocean Thermometer
 
-## Available Scripts
+**A Dive into Global Ocean Warming Using NASA Data**
 
-In the project directory, you can run:
+Built for NASA Space Apps Challenge 2025
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+NASA Ocean Thermometer is an interactive visualization platform highlighting the effects of climate change on Earth’s oceans. Users can explore any of the five major oceans and track changes in **temperature** and **marine ecosystem health** over time using NASA data.
 
-### `npm test`
+**Purpose:** To make ocean warming and ecosystem degradation **accessible, visual, and actionable**, helping users understand the scale and urgency of climate change and how it impacts marine life.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛰️ NASA Data Sources & Resources Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project integrates NASA APIs and resources to visualize ocean health:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Primary Data Sources:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **GISS Surface Temperature Analysis (GISTEMP v4)**
 
-### `npm run eject`
+   * URL: [GISTEMP](https://data.giss.nasa.gov/gistemp/)
+   * API: [JSON Data](https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.json)
+   * Description: Global surface temperature anomalies (1997-present)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. **NASA Ocean Color Web (Chlorophyll-a & Ocean Biology)**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   * URL: [Ocean Color](https://oceancolor.gsfc.nasa.gov/)
+   * API: MODIS / SeaWiFS data endpoints
+   * Description: Chlorophyll concentration data indicating marine ecosystem health
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. **Earth Observatory Natural Event Tracker (EONET)**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   * URL: [EONET](https://eonet.gsfc.nasa.gov/)
+   * API: [EONET API](https://eonet.gsfc.nasa.gov/api/v3/events)
+   * Description: Tracks natural events affecting oceans globally
 
-## Learn More
+4. **MODIS Aqua & Terra Satellites**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   * URL: [MODIS](https://modis.gsfc.nasa.gov/)
+   * Description: Sea surface temperature and chlorophyll measurements
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. **NASA Worldview**
 
-### Code Splitting
+   * URL: [Worldview](https://worldview.earthdata.nasa.gov/)
+   * Description: Interactive satellite imagery browser
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## ✨ Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* ✅ **5 Major Oceans**: Pacific, Atlantic, Indian, Southern, Arctic
+* ✅ **Temperature Visualization**: Real-time ocean warming data
+* ✅ **Chlorophyll & Ecosystem Health**: Shows changes in marine productivity
+* ✅ **Time Travel Slider**: Explore changes from **1997-present**
+* ✅ **Dynamic Visuals**: Heatmaps and chlorophyll overlays
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🌡️ How It Works
 
-### Advanced Configuration
+**Temperature Calculation:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
+Ocean Temp = Base Temp + (Years × Warming Rate) + NASA GISTEMP Anomaly
+```
 
-### Deployment
+**Chlorophyll/Health Index:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```
+Health = 100 - (Temp Anomaly × 15) - (Chlorophyll Loss × 0.3)
+```
 
-### `npm run build` fails to minify
+**Data Integration:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* **GISTEMP** → global temperature anomalies
+* **MODIS & Ocean Color** → chlorophyll and ocean biology data
+* **EONET** → real-time natural events affecting oceans
+
+---
+
+## 🏆 NASA Space Apps Challenge 2025
+
+### Challenge Category
+
+Create Your Own Challenge
+
+### Why This Project Matters
+
+* Makes NASA ocean data **visually understandable**
+* Highlights **global warming impacts on oceans and marine ecosystems**
+* Demonstrates **chlorophyll degradation and ecosystem health decline**
+* Encourages **climate awareness and informed decision-making**
+
+### NASA Resources Compliance
+
+* ✅ Uses NASA GISTEMP & MODIS data
+* ✅ Uses NASA Ocean Color and EONET APIs
+* ✅ References NASA satellites (MODIS, SMAP, GIBS, etc.)
+* ✅ Cites NASA research and datasets
+
+---
+
+## 🛠️ Installation & Setup
+
+### Prerequisites
+
+* Node.js (v16 or higher)
+* npm or yarn
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/nasa-ocean-thermometer.git
+cd nasa-ocean-thermometer
+```
+
+### Step 2: Install Dependencies
+
+```bash
+npm install
+```
+
+### Step 3: Install Required Packages
+
+```bash
+npm install lucide-react
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+### Step 4: File Structure
+
+Ensure your project has this structure:
+
+```
+nasa-ocean-thermometer/
+├── src/
+│   ├── App.js          (Main React component)
+│   ├── App.css         (Provided styles)
+│   ├── index.css       (Global styles)
+│   └── index.js
+├── public/
+│   └── index.html
+├── tailwind.config.js  (Provided config)
+├── postcss.config.js
+└── package.json
+```
+
+### Step 5: Replace Configuration Files
+
+1. Replace `tailwind.config.js` with the provided configuration
+2. Replace `App.css` with the provided styles
+3. Replace `index.css` with the provided global styles
+4. Replace `App.js` with the NASA Ocean component
+
+### Step 6: Create PostCSS Config
+
+Create `postcss.config.js` in the root directory:
+
+```javascript
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+}
+```
+
+### Step 7: Start the Development Server
+
+```bash
+npm start
+```
+
+The app will open at `http://localhost:3000`
+
+---
+
+## 🎮 Usage
+
+1. **Select an Ocean**: Choose from 5 major oceans
+2. **Adjust Time**: Use the slider to travel from **1997-present**
+3. **View Data**: See NASA satellite measurements
+4. **Check Ecosystem Health**: Monitor chlorophyll & temperature indicators
+5. **Satellite View**: Toggle satellite perspective
+
+---
+
+## 📱 Browser Compatibility
+
+* ✅ Chrome, Firefox, Safari, Edge
+* ✅ Mobile browsers supported
+
+---
+
+## 🤝 Contributing
+
+This is a NASA Space Apps Challenge 2025 project. Contributions and feedback are welcome.
+
+---
+
+## 🔗 Links
+
+* NASA GISTEMP: [https://data.giss.nasa.gov/gistemp/](https://data.giss.nasa.gov/gistemp/)
+* NASA Ocean Color: [https://oceancolor.gsfc.nasa.gov/](https://oceancolor.gsfc.nasa.gov/)
+* NASA EONET: [https://eonet.gsfc.nasa.gov/](https://eonet.gsfc.nasa.gov/)
+* NASA APIs: [https://api.nasa.gov/](https://api.nasa.gov/)
+* NASA Worldview: [https://worldview.earthdata.nasa.gov/](https://worldview.earthdata.nasa.gov/)
+
+---
+
+**Built with ❤️ for NASA Space Apps Challenge 2025**
+*Making climate data actionable, one ocean at a time* 🌊
+
+---
+
+
+Do you want me to do that?
